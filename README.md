@@ -1,1 +1,1 @@
-# Freshy-AI-termux
+# Freshy-AI
